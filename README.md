@@ -12,5 +12,5 @@ socket.gaierror: [Errno 11001] getaddrinfo failed"
  </b><br>
  
  update your 
-    File "C:\----\----\AppData\Local\Programs\Python\Python38-32\lib\site-packages\discord\voice_client.py", line 191, in _create_socket
+    File "C:\----\----\AppData\Local\Programs\Python\Python38-32\lib\site-packages\discord\voice_client.py", line 191, in _create_socket<br>
   <b>line 190 </b>--   (self.endpoint, _, _) = endpoint.rpartition(':')
