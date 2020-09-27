@@ -1,6 +1,6 @@
 # discordBot
 Playing youtube and spotify links<br>
-Add token to config.py
+Add token to config.py<br>
 #error
 <b>
 "Task exception was never retrieved
@@ -9,7 +9,7 @@ Traceback (most recent call last):
   File "C:\-----\------\AppData\Local\Programs\Python\Python38-32\lib\site-packages\discord\voice_client.py", line 191, in _create_socket
     self.endpoint_ip = socket.gethostbyname(self.endpoint)
 socket.gaierror: [Errno 11001] getaddrinfo failed"
- </b>
+ </b><br>
  
  uptade your 
     File "C:\----\----\AppData\Local\Programs\Python\Python38-32\lib\site-packages\discord\voice_client.py", line 191, in _create_socket
