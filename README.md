@@ -1,6 +1,6 @@
 # discordBot
 Playing youtube and spotify links<br>
-Add token to config.py<br>
+Add token to config.py -- spotify token and secret<br>
 #error
 <b>
 "Task exception was never retrieved
